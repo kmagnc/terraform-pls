@@ -8,7 +8,7 @@ This is a collection of Terraform snippets that help navigate troublesome HCL sy
 
 ## Solutions
 
-- List of maybes: [Make a list of things and remove the empty things](list-of-maybes/README.md)
+- List of maybes: [Make a list of things and remove the empty things](list-of-maybes/)
 
 ## License
 MIT License
