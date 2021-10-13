@@ -9,3 +9,9 @@
 - Create list
 - Attempt to add each module's output, fallback on empty string
 - Remove empty strings
+
+## Usage
+```
+  terraform init
+  terraform apply -auto-approve
+```
