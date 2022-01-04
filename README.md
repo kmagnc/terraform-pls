@@ -12,3 +12,4 @@ This is a collection of Terraform snippets that help navigate troublesome HCL sy
 
 ## License
 MIT License
+.
